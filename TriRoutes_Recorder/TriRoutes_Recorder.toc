@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: |cff65D7FFTriRoutes Recorder|r
+## Notes: Raw dungeon/raid route telemetry recorder for TriRoutes.
+## Author: Scuz / ChatGPT
+## Version: 0.1.0-test6c
+## Dependencies: TriRoutes
+## OptionalDeps: !Astrolabe, WDM
+## SavedVariables: TriRoutesRecorderDB
+
+TriRoutes_Recorder.lua
