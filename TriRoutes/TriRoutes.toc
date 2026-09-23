@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: |cffFFD54FTriRoutes|r
+## Notes: Dungeon/raid route learning and WDM/Astrolabe route overlays for WoW 3.3.5a.
+## Author: Scuz / ChatGPT
+## Version: 0.1.0-test6c
+## OptionalDeps: !Astrolabe, WDM, LibMapData-1.0
+## SavedVariables: TriRoutesDB
+
+StandaloneDetection.lua
+RouteProcessor.lua
+DungeonMetrics.lua
+BuiltInRoutes.lua
+TriRoutes.lua
+MythicTracker.lua
